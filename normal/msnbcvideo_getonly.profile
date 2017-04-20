@@ -6,7 +6,7 @@
 
 #set https cert info
 
-#NOTE: As of writing, MSNBC doesn't support HTTS - these are made-up cert details based on nbc.com cert
+#NOTE: As of writing, MSNBC doesn't support HTTPS - these are made-up cert details based on nbc.com cert
 https-certificate {
     set CN       "www.msnbc.com"; #Common Name
     set O        "General Electric Company"; #Organization Name
